@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hyngry</string>
+    <string name="app_header">restaurants à proximité</string>
+
+    <string name="enter_city_name">Entrez la ville</string>
+    <string name="enter_city_name_error">Champs requis</string>
+    <string name="search">Rechercher</string>
+    <string name="my_location">Ma Position</string>
+    <string name="msg_city_error">Essayez une autre ville !!!</string>
+    <string name="msg_no_restaurants">pas de restaurant pour cette ville !!!</string>
+    <string name="msg_network_error">Activez votre connexion internet !!! </string>
+    <string name="msg_network_available">Vérifiez votre connexion Internet et réessayez !!! </string>
+    <string name="permission">Autorisation requise !!! </string>
+    <string name="connexion_error">Erreur de connexion !!! </string>
+
+
+
+</resources>

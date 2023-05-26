@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hyngry</string>
+    <string name="app_header">المطاعم القريبة</string>
+    <string name="enter_city_name">أدخل اسم المدينة</string>
+    <string name="enter_city_name_error">مطلوب</string>
+    <string name="search">بحث</string>
+    <string name="my_location">البحث في موقعي</string>
+    <string name="msg_city_error">جرب مدينة أخرى !!!</string>
+    <string name="msg_no_restaurants">لا يوجد مطعم لهذه المدينة !!!</string>
+    <string name="msg_network_error"> قم بتفعيل اتصالك بالإنترنت !!!</string>
+    <string name="msg_network_available"> تحقق من اتصالك بالإنترنت وحاول مرة أخرى !!! </string>
+    <string name="permission">الإذن المطلوب !!! </string>
+    <string name="connexion_error">خطأ في الارتباط بالإنترنت !!!</string>
+
+
+
+</resources>

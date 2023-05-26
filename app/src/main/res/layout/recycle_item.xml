@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_margin="30dp"
+        android:textSize="30dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/latitudeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="15dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:id="@+id/longitudeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textSize="15dp"
+        android:textColor="@color/white"/>
+</LinearLayout>
